@@ -1,0 +1,5 @@
+I would create an array of each letters of each language that I want to use.
+Each letter would have a different value than would make the letters compareable.
+Comparing between the language's letters would be just like comparing integers and doubles.
+The types of these letters would be strings. 
+Change all the char data types to strings. 
